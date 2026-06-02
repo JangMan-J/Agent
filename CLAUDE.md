@@ -1,6 +1,6 @@
 # agent — conventions
 
-> **Lab scope — `agent/`** · nested repo [`Agent`](https://github.com/JangMan-J/Agent). This file is the authority for work *inside this lab* and **overrides** the workspace root [`../CLAUDE.md`](../CLAUDE.md). Stay in this lab — don't reach into or edit sibling labs from here.
+> **Lab scope — `agent/`** · nested repo [`JangLabs-Agent`](https://github.com/JangMan-J/JangLabs-Agent). This file is the authority for work *inside this lab* and **overrides** the workspace root [`../CLAUDE.md`](../CLAUDE.md). Stay in this lab — don't reach into or edit sibling labs from here.
 
 ## What lives here
 
